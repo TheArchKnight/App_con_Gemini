@@ -1,0 +1,6 @@
+Juan Pérez
+Correo: juan.perez@example.com
+Teléfono: 123-456-7890
+Portafolio: https://juanperez.dev
+Experiencia: 5 años de experiencia en desarrollo web.
+Habilidades: Python, Django, Machine Learning, React.
